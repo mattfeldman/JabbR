@@ -799,6 +799,7 @@
     <Content Include="Content\images\lockwhite.png" />
     <Content Include="Content\images\lock.png" />
     <Content Include="Content\images\logo64.png" />
+	<Content Include="Content\images\logo128.png" />
     <Content Include="Content\images\logout-white.png" />
     <Content Include="Content\images\logout.png" />
     <Content Include="Content\images\no-typing-white.png" />
